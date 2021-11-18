@@ -26,7 +26,7 @@ jobs:
        - name: Setup BATS
          uses: mig4/setup-bats@v1
        - name: Setup Bats libs
-         uses: brokenpip3/setup-bats-libs@0.0.2
+         uses: brokenpip3/setup-bats-libs@0.0.3
 
 ```
 
